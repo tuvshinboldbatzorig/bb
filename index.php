@@ -7,7 +7,7 @@
   <body>
     <!-- Статик болон динамик агуулгын ялгаа -->
     <p>Энэ бол статик агуулга.</p>
-    Amraasanaa bagshaa bi tugsursuun
+    Amraasanaa bagshaa bi tugsursuun 222
     <?php echo "PHP скриптээр, програмын кодоор үүсгэсэн динамик агуулга."; ?>
     <p>Вэб серверийн цаг: 
        <span><?php 
